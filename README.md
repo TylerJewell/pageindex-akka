@@ -40,8 +40,8 @@ Full method and the numbers that did not make this list:
 
 ⏱️ **0.5 hours** from the first command to the published repository, **0.5** of them
 active<br>
-💬 **237** exchanges with the model<br>
-✍️ **138,715** tokens written by the model, **45,661,479** counting everything sent
+💬 **269** exchanges with the model<br>
+✍️ **148,125** tokens written by the model, **54,786,578** counting everything sent
 and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 22 tests
